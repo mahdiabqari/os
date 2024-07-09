@@ -42,7 +42,7 @@ export default function Home() {
 
 
   return (
-    <main className="flex flex-col justify-center items-center">
+    <main className="container-app flex flex-col justify-center items-center">
       <div className="title flex flex-col justify-center items-center w-[80%] bg-white text-black mt-5 rounded-xl rounded-t-full py-7 gap-4">
         <h1 className="text-4xl font-bold">My Works</h1>
         <span className="text-xl">Today is Yesterday's Tomorrow</span>

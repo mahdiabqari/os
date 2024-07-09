@@ -6,8 +6,11 @@ html{
   scroll-behavior: smooth;
 }
 
-.body{
+.container-app{
   background: linear-gradient(to left , rgb(29, 29, 188) , rgb(162, 170, 174));
+}
+
+body{
   color: rgba(25, 25, 25, 0.94);
   scroll-behavior: smooth;
 }
