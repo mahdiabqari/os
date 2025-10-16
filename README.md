@@ -1,6 +1,3 @@
-# To Do List Project
----
-With the help of this app you can organize your daily tasks.
+"A Windows-like operating system UI built entirely with DeepSeek, powered by React and styled with Tailwind CSS."
 
-Click [here](https://mahdiabqari.github.io/To-Do-List/) to see Demo
 
